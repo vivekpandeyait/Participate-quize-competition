@@ -1,7 +1,10 @@
 # Participate-quize-competition
 Some few achievement in my whole academic year
-<!doctype html>
 
+<p>
+  <img src="https://github.com/vivekpandeyait/Participate-quize-competition/blob/main/our%20achiev.gif"/>
+      
+  </p>
 <p>
   <img src="https://github.com/vivekpandeyait/Participate-quize-competition/blob/main/Python-for-Data-Science.jpg"/>
       
