@@ -16,13 +16,13 @@ Some few achievement in my whole academic year
    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="https://github.com/vivekpandeyait/Participate-quize-competition/blob/main/certificate%20(5).jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="https://github.com/vivekpandeyait/Participate-quize-competition/blob/main/certificate%20(3).jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="https://github.com/vivekpandeyait/Participate-quize-competition/blob/main/certificate%20(4).jpg" class="d-block w-100" alt="...">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
