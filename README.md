@@ -2,7 +2,7 @@
 Some few achievement in my whole academic year
 
 <p>
-  <img src="https://github.com/vivekpandeyait/Participate-quize-competition/blob/main/our%20achiev.gif"/>
+  <img src="https://github.com/vivekpandeyait/Participate-quize-competition/blob/main/my%20achieve.gif"/>
       
   </p>
 <p>
